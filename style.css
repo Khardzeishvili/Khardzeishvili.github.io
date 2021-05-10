@@ -1,0 +1,22 @@
+body {
+    background-color:#ffe4c4;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+nav {
+    background-color:#FFB6C1;
+}
+main {
+    background-color:#FFC0CB;
+}
+h1 {
+    color:#4B0082;
+}
+h2 {
+    color:#800080;
+}
+p {
+    color:#4B0082;
+}
